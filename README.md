@@ -1,6 +1,6 @@
 ## Olá, eu sou o Renan Vieira 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvieira-dev&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvieira-dev&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia 📚
