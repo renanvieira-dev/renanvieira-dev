@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<!-- Conexões e Redes com Efeito Hover -->
+<!-- Conexões e Redes -->
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-vieira-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<!-- Títulos e Troféus de Conquistas -->
+<!-- Troféus de Conquistas -->
 <img src="https://github-profile-trophy.vercel.app/?username=renanvieira-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Troféus GitHub" />
 
 </div>
@@ -67,13 +67,14 @@ Desenvolvedor **Full Stack** com formação em design de interfaces e foco rigor
 
 #### 🛡️ Cibersegurança, Infraestrutura & DevSecOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,fedora,linux,bash,git,githubactions,docker&perline=7&theme=dark" alt="Security & DevOps" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,git,githubactions,docker&perline=6&theme=dark" alt="Security & DevOps" />
 </a>
 
 <br/>
 
-#### 🎮 Multimédia, Automações & Engenharia Sonora
+#### 🎮 Multimédia, Automações & Sistemas
 <p align="center">
+  <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
   <img src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot 4" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
